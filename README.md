@@ -29,3 +29,7 @@ Replace the placeholders in the script with appropriate values:
 
 ![image](https://github.com/EvilBytecode/ThunderKitty-Ransomware/assets/151552809/5ea603f7-0fa4-4e60-a467-5d5a9f432ed1)
 ![image](https://github.com/EvilBytecode/ThunderKitty-Ransomware/assets/151552809/5a64ae2c-2d07-4998-9876-a070050195bd)
+
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
