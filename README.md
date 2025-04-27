@@ -1,5 +1,6 @@
 ### ThunderKitty-Ransomware
-
+## Telegram:
+- https://t.me/ebytelabs
 The encryption process involves the following steps:
 
 1. **Generate a User ID**: A unique user ID is generated to identify the victim.
